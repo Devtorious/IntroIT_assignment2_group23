@@ -30,3 +30,10 @@ If you mostly working with clients, then make them (and your team) happy is the 
 5.Finally, can you share an example of the work you do that best captures the essence of
 the IT industry?
 Not sure if I get the question but TBH Idk what is the essence of the IT industry? that just too board to get.
+
+6. Oh, I mean is there any work that you have done that make you feel like that's the most "IT" work?
+Well, actually I got what you meant by the last question but I personally think that's a bit ridiculous to answer. I did the job for like 6 years and jumped across 4 companies ( the first one is FPT and the rest are all foreign ones) and actually had to do a lot of things (most are coding obviously). But even so, I don't think I did anything worth mentioning to "capture the essence of IT" and feel funny if somebody said they did. But if you really want one, I did got requested to contribute to an Open source on Github, that's a thing not many Senior coders from Vietnam can do.
+
+
+My thought after the review:
+
