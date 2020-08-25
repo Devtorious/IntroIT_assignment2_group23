@@ -1,0 +1,32 @@
+Interview:
+
+1. What kind of work is done by the IT professional?(What exactly do you do, pls name a few things)
+It would depends on your company product (or service) and your role, as a Senior Software Engineer, you mostly writing code (what else it could be?) and communicating with others, following some industry standard protocol for software development like Scrum
+
+
+2.What kinds of people does the IT professional interact with? Are they other IT 
+professionals? Clients? Investors? The general public?(Pls tell me briefly about that interaction)
+It depend on role, in general the higher role you take the higher chance you would need to communicate with the external.
+Sample below, but it may not always true, some SA may don’t want to work with clients 😉
+- Engineer: mostly working together
+- PM: Partners, Clients
+- Support/Helpdesk: Clients/Customers
+- Solution Architect: Team, Client, Partner…
+…
+
+
+3.Where do the IT professionals spend most of their time?
+Writing code (with well design ofc)
+Communication would take ~1/5 of your time per day
+Learning new things, blogs, articles
+Contribute to Open Source software (if you willing to)
+
+
+4.What aspect of their position is most challenging?
+If your job is writing code, then writing good code is the most challenging
+If you mostly working with clients, then make them (and your team) happy is the challenge
+
+
+5.Finally, can you share an example of the work you do that best captures the essence of
+the IT industry?
+Not sure if I get the question but TBH Idk what is the essence of the IT industry? that just too board to get.
