@@ -37,3 +37,19 @@ Well, actually I got what you meant by the last question but I personally think 
 
 My thought after the review:
 
+After interview an IT professionals (background information below), I have concluded the information as following.
+
+The IT works are actually different for each person depend on the company product and service as well as the individual's role. Most of these works revolve around coding like writing code, reviewing code, interacting with clients and customers while following some industry standard protocol for software development like Scrum. In this case, as a Senior Software Engineer, his jobs are mostly writing code and communicating with fellow workers. 
+
+IT works always require you to interact with others. However, whom you interact with is really depend on your role in the company. In general, the higher role you get, the higher chance that you would need to communicate with the external world ( which is anyone outside of your co-workers). For example, you won't get to talk with the investors if you are only an Engineer. The following list of roles somewhat describe the interaction (not always true):
+- Engineer: mostly working together
+- PM: Partners, Clients
+- Support/Helpdesk: Clients/Customers
+- Solution Architect: Team, Client, Partner…
+...
+
+Most IT professionals spend their time writing code, communicating with others( which take about 1/5 of working time per day), learning new things, writing blogs, article. Lastly, some are willing to spend their time contribute to Open Source software, which is uncommon in Vietnam compare to the west. 
+
+As for the most challenging part of IT works, it still depend on your role. If your job is to write code, then write a good code is the most challenge thing. If your job revolve around interacting with clients, customers, then making them (and also your teamate) happy is the challenge. If you have a bigger role, then reviewing code, dealing with investors would be the challenge.
+
+When asked about the work that can captures the essence of the IT industry, the IT profession laughed and said that it's hard to say something like that when you don't even have 10 years of experience. However, he did say one thing that make him proud. Which is he got requested to contribute to an Open Source on Github, which not many Senior coders from Vietnam can say the same.
