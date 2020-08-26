@@ -1,0 +1,17 @@
+Personal Information:
+
+Name: Hua Tien Trung
+ID: s3836390
+Email: s3836390@rmit.edu.vn
+Nationality: Viet Nam
+Spoken Language: Vietnamese, English
+Previous Education: 2015-2017: Le Hong Phong High School from Ho Chi Minh city
+Hobbies: novel, PC/Mac game and board game.
+IT interest: mobile app, web development.
+IT experience: basic web development skill (HTML/CSS/PHP), basic database related skill.
+
+Team Profile:
+Myers-Briggs test: ISFJ - Defender
+Learning Style test: Visual Learner
+Big Five Personality test: Openness - 46/100, Conscientiousness - 48/100, Extraversion - 40/100, Agreeableness - 60/100, and Neuroticism - 67/100 
+
