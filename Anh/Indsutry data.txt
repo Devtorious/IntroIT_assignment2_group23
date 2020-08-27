@@ -1,9 +1,9 @@
-Quang Anh: Test analyst 
+Quang Anh: Test analyst
 Ranking: 15/25 (May 2017) - 10/25 (Feb 2018) - 10/25 (Mar 2018)
 
 Set of skills:
 General skill: communications, Quality assurance and control, Detail-orientated, Troubleshooting, English
 IT skills: Customer service, technical support, HTML basic, Python, java, java script, C ,Linux
 
-hour glass opinion
-It doesn’t change much in my very own opinion since testing isn’t very popular since almost anyone could do it but effectiveness may vary. And since every piece of tech that came out, you will need someone to test it out and report what they have found to effectively minimize the problem and potentials of failures and since figuring out how things works is a part of my hobby so the ranking doesn’t affect much about how I see being a tester is not relevant.
+burning glass opinion
+It doesn’t change much in my very own opinion although from the data that the burning glass data provided, testing seems like it isn’t very popular. I think it is because in most employers' eyes almost anyone could do it, however I would argue that the effectiveness may vary due to each individual's personality and skills, some are better at logging, communicating and make good report on what went wrong or could have done better and some are more effective at technical skills and details like how much better it can be done or even a detailed report on which component can generate potential risk or even make the overall product easier to understand for other developers. And since every piece of tech that came out, a tester is always needed to test it out in many different scenarios and report what they have found to effectively minimize the problem and potentials of failures and since figuring out how things works is a part of my hobby so the ranking doesn’t affect much about how I see being a tester is not relevant.
