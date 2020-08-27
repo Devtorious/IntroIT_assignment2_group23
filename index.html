@@ -2,23 +2,95 @@
     <head>
         <title>Group 23 - Assignment2</title>
         <meta charset="UTF-8">
+        <style>
+          #table_container {
+            background: #f9f9f9 none repeat scroll 0 0;
+            border: 1px solid #aaa;
+            display: table;
+            font-size: 95%;
+            margin-bottom: 1.1em;
+            padding: 22px;
+            width: auto;
+          }
+
+          .table_title {
+            font-weight: 720;
+            text-align: center;
+          }
+          
+          #table_container li {
+          padding: 6px 11px;
+          }
+          #table_container li, #table_container ul, #table_container ul li{
+              list-style: outside none none;
+          }
+          a:link {
+          color: green;
+          text-decoration: none;
+          }
+          a:visited {
+            color: green;
+            text-decoration: none;
+          }
+          a:hover {
+            color: hotpink;
+            text-decoration: none;
+          }
+          .a1:link {
+          color: red;
+          text-decoration: none;
+          }
+          .a1:visited {
+            color: red;
+            text-decoration: none;
+          }
+          .a1:hover {
+            color: hotpink;
+            text-decoration: none;
+          }
+          
+        </style>
     </head>
 
 
     <body>
-        <header>
-            <h1>Team Old Guy</h1>
-        </header>
+      <header>
+        <h1>Team Old Guy</h1>
+    </header>
+      <div id="table_container">
+        <p class="table_title">Contents</p>
+        <ul class="table_list">
+          <li><a href="#Team_Profile">Team Profile</a>
+            <ul>
+              <li><a href="#Team_Name" class="a1">Team Name</a></li>
+              <li><a href="#Personal_Information" class="a1">Personal Information</a></li>
+              <li><a href="#Profile" class="a1">Team Profile</a></li>
+              <li><a href="#Ideal_Jobs" class="a1">Ideal Job</a></li>
+            </ul>
+          </li>
+          <li><a href="#Tools">Tools</a>
+            <ul>
+              <li><a href="#Group_Link" class="a1">Group’s website link</a></li>
+              <li><a href="#Member_Link" class="a1">Member's website link</a></li>
+              <li><a href="#Git_Link" class="a1">Group’s Git repository link</a></li>
+              <li><a href="#Comments" class="a1">Comments</a></li>
+            </ul>
+          </li>
+          <li><a href="#Industry_Data">Industry Data</a>
+            <ul>
+              <li><a href="#Rank" class="a1">Job titles and ranks</a></li>
+              <li><a href="#Skill" class="a1">Set of skills</a></li>
+              <li><a href="#Thought" class="a1">Individual thought after looking at the above data</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
 
-        <section>
-            <p>This is a testing paragraph</p>
-        </section>
-        <p>Information</p>
-        <section >
+        <section id="Team_Profile">
           <h1 style="color: green;">Team Profile</h1>
-          <h3 style="color: red;">Team Name</h3>
+          <h3 style="color: red;" id="Team_Name">Team Name</h3>
             <p>Old Guy</p>
-          <h3 style="color: red;">Personal information</h3>
+          <h3 style="color: red;" id="Personal_Information">Personal Information</h3>
             <p>Trung</p>
               <ul>
                 <li>Name: Hua Tien Trung</li>
@@ -66,7 +138,7 @@
                 <li>IT interest: Web development/ database/ cloud computing.</li>
                 <li>IT experience: Basic Java knowledge, basic HTML/CSS</li>
               </ul>
-          <h3 style="color: red;">Team Profile</h3>
+          <h3 style="color: red;" id="Profile">Team Profile</h3>
             <p>Trung</p>
               <ul>
                 <li>Myers-Briggs test(MBTI): ISFJ-T / Defender</li>
@@ -96,7 +168,7 @@
               </ul>
               <p>The meaning of these results: I am open to co-operation, can work fairly well with others, so normal teamwork is no problem. I also take responsibility for my work and will devote time and effort towards the final goal. The way I think is based on sets of rules and observations (logical). One important note is that I may get tense during stressful situations. This may lead to a tense environment between the member's interactions and myself. I also lack the passion required for abstract goals. These problems can negatively affect the group work flow. </p>
 
-          <h3 style="color: red;">Ideal Jobs</h3>
+          <h3 style="color: red;" id="Ideal_Jobs">Ideal Jobs</h3>
             <p>Group Work</p>
               <ul>
                 <li>Trung: Fullstack web developer</li>
@@ -110,10 +182,10 @@
         </section>
 
         <section >
-          <h1 style="color: green;">Tools</h1>
-          <h3 style="color: red;">Group’s website link</h3>
+          <h1 style="color: green;" id="Tools">Tools</h1>
+          <h3 style="color: red;" id="Group_Link">Group’s website link</h3>
             <p>https://momoclouq.github.io/IntroIT_assignment2_group23/</p>
-          <h3 style="color: red;">Member's website link</h3>
+          <h3 style="color: red;" id="Member_Link">Member's website link</h3>
             <p>
               <ul>
                 <li> Minh: https://momoclouq.github.io/RMIT_introIT_Assignment1/ </li>
@@ -122,15 +194,15 @@
                 <li> Trung: https://s3836390.github.io/ITProfile/ </li>
               </ul>
             </p>
-          <h3 style="color: red;">Group’s Git repository link</h3>
+          <h3 style="color: red;" id="Git_Link">Group’s Git repository link</h3>
             <p>https://github.com/momoclouq/IntroIT_assignment2_group23</p>
-          <h3 style="color: red;">Comments</h3>
+          <h3 style="color: red;" id="Comments">Comments</h3>
             <p>Group Work</p>
         </section>
 
         <section >
-          <h1 style="color: green;">Industry Data</h1>
-          <h3 style="color: red;">Job titles and ranks</h3>
+          <h1 style="color: green;" id="Industry_Data">Industry Data</h1>
+          <h3 style="color: red;" id="Rank">Job titles and ranks</h3>
             <ul>
               <li> Minh: Full-stack web developer</li>
                 <p>Ranking: 16/25 (march 2018) - 18/25 (February 2018) - 14/25 (May 2017)</p>
@@ -141,7 +213,7 @@
               <li> Trung: Full-stack web developer </li>
                 <p>Ranking: 16/25 (march 2018) - 18/25 (February 2018) - 14/25 (May 2017)</p>
             </ul>
-          <h3 style="color: red;">Set of skills</h3>
+          <h3 style="color: red;" id="Skill">Set of skills</h3>
           <p>Individual</p>
             <ul>
               <li> Minh</li>
@@ -177,7 +249,7 @@
             </ul>
           <p>3. 3 highest ranked General skills not in the required skill set: ?</p>
           <p>4. 3 highest ranked IT skills not in the required skill set: ?</p>
-          <h3 style="color: red;">Individual thought after looking at the above data</h3>
+          <h3 style="color: red;" id="Thought">Individual thought after looking at the above data</h3>
             <ul>
               <li>Trung</li>
                 <p>No, it’s not. IMO, ranking job titles based on popularity kind of meaningless, at least for me. It doesn’t show me which job has the highest income, brightest future or hardest time. It’s just based on the population. After some research, Fullstack developer is still my ideal job at the moment because of the income and challenges it brings.</p>
