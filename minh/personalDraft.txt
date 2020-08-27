@@ -24,7 +24,7 @@ The future goal of cloud computing mainly is to increase the reliability and red
 2. What is the likely impact? 
 The impact of cloud computing will be different on various individuals. 
 We can see that businesses are the ones affected the most by the development of cloud computing. Cloud services have been the optimal solution for early development as for its affordable cost, flexibility in scale and increase in productivity of developers.
-Nowadays, cloud computing can bring to the business these advantages: [2]
+Nowadays, the impact of cloud computing is completely beneficial and can bring to the business these specific advantages: [2]
 Cost: Cloud computing eliminates the cost of buying hardware and software needed for database management.
 Speed: Vast amounts of computing resources can be provided by the supplier with just a few mouse clicks (operations). This give businesses burst computing capability (high computing power at a certain periods of peak demand) [3]
 Global scale: computing resources can be delivered from the right geographic location (data being near the place of usage)
