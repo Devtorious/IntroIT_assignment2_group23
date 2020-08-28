@@ -8,9 +8,9 @@ link for overall draft: https://docs.google.com/document/d/1e5DQFMQ8qPdKfDiOSrf2
 
 ----the group planning and choosing
 
-report: https://docs.google.com/document/d/17xqyh3iEWEGduGx906C7BGBttTzgIzztRVuT1qJi498/edit?usp=sharing
+report: https://docs.google.com/document/d/1XNk23czbDlq_cwwlDq3jTtyOUrrAAbScUr9D47tOArY/edit
 
-----the real report, now it only includes links and possible team name, should add the draft here.
+----the real report, finished.
 
 
 draft: https://docs.google.com/document/d/14M3sGM9dNGt_Gq-K87u6JeKK_JFF-pGFEx0LPfGeLPI/edit?usp=sharing
